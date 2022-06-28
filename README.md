@@ -1,5 +1,5 @@
-# UZAKTAN KUMANDA KONTROLÜ
+# REMOTE CONTROL
 
-*basit bir kumanda kaynak kodu*
+*basic remote control source code*
 
-*opsiyenl seçimler(kanallar vs.) çoğaltılabilir*
+*we multiply choieces(channels vs) as optional*
